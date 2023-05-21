@@ -1,3 +1,4 @@
+/*
 package ru.desno.KataTask.security;
 
 import org.springframework.security.core.GrantedAuthority;
@@ -50,3 +51,4 @@ public class UsersDetails implements UserDetails {
         return false;
     }
 }
+*/
